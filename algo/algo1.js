@@ -11,9 +11,11 @@
 */
 
 function rectPerimeter(width, height) {
-  // Ton code ici
-}
+  return(
+    2 * width + 2 * height 
 
+  )
+}
 
 // Exemples d'appel pour vérifier
 // le bon fonctionnement de ton code

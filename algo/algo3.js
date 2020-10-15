@@ -3,11 +3,15 @@
  qui prend en paramètre un tableau de nombres,
  et renvoie la somme de ces nombres
 */
-
+let numArray =  0;
 function sumNumbers(numArray) {
+ 
+    for(let i=0;i<input.length;i++){
+      return(
 
-}
+      )
 
+    }
 
 // Exemples d'appel pour vérifier
 // le bon fonctionnement de ton code
